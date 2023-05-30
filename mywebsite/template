@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="description" content="Ashley Lamarca's landing page">
+  <meta name="author" content="Ashley Lamarca">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ashley Lamarca's Landing Page</title>
+  <link rel="stylesheet" href="css/style.css">
+  
+  <!--  FAVICON  -->
+  <link rel="apple-touch-icon" sizes="180x180" href="images/favicon-io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-io/favicon-16x16.png">
+  <link rel="manifest" href="images/favicon-io/site.webmanifest">
+  
+  <!--  FONT  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+</head>
+  
+<body>
+
+</body> 
+
+ <footer>
+  <div class="footer">
+    
+<!-- CARD   -->
+  <div class="card" style="width: 18rem;">
+    <div class="card-image">	
+      <h2 class="card-heading">
+        Contact
+      </h2>
+    </div>
+
+    <div class="card-body">
+      <div class="input">
+
+        <div class="mb-3 mt-3">
+          <input type="text" class="form-input" id="input" placeholder="full name">
+        </div>
+
+        <div class="mb-3 mt-3">
+          <input type="email" class="form-input" id="email" placeholder="name@example.com">
+        </div>
+        <br><br>
+        <button class="submit" type="submit">Submit</button>
+      </div>
+    </div>
+  </div>
+         
+      <a href="https://www.instagram.com/ashiina/" target="_blank"><img id="socials" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="50px"></a>
+      <a href="https://www.linkedin.com/in/ashley-lamarca/" target="_blank"><img id="socials" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="50px"></a> 
+
+    <p><small><center>&copy;Copyright 2023, Ashley Lamarca</center></small><p>
+    </div>
+</footer>
+</div>
+
+</html>
